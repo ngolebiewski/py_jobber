@@ -9,7 +9,6 @@ DB_NAME = "jobs.db"
 GREENHOUSE_COMPANIES = {
     "thenewyorktimes": "The New York Times",
     "duolingo": "Duolingo",
-    "etsy": "Etsy",
     "zyngacareers": "Zynga",
     "discord": "Discord",
     "figma": "Figma",
