@@ -15,6 +15,7 @@ GREENHOUSE_COMPANIES = {
     "netlify": "Netlify",
     "chartbeatinc": "Chartbeat",
     "thefarmersdog": "The Farmers Dog",
+    "datadog": "Datadog",
 }
 
 # Keywords to filter jobs
