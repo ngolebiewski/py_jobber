@@ -13,6 +13,8 @@ GREENHOUSE_COMPANIES = {
     "discord": "Discord",
     "figma": "Figma",
     "netlify": "Netlify",
+    "chartbeatinc": "Chartbeat",
+    "thefarmersdog": "The Farmers Dog",
 }
 
 # Keywords to filter jobs
@@ -25,7 +27,10 @@ KEYWORDS = [
     "go",
     "games",
     "game",
-    "python"
+    "python",
+    "customer success",
+    "developer relations",
+    "game",
 ]
 
 # Locations to keep
