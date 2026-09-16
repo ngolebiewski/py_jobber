@@ -16,3 +16,8 @@ __pycache__/
 
 # Env files
 .env
+
+# Misc
+markov.py
+temp.py
+triples.py
