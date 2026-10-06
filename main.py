@@ -16,6 +16,7 @@ GREENHOUSE_COMPANIES = {
     "chartbeatinc": "Chartbeat",
     "thefarmersdog": "The Farmers Dog",
     "datadog": "Datadog",
+    "tailscale": "Tailscale",
 }
 
 # Keywords to filter jobs
